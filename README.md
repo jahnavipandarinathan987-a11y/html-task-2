@@ -1,9 +1,9 @@
-# Hello World HTML Task
+# Laundry Mart HTML Task
 
-This is a simple HTML project that displays "Hello World!" on the browser screen.
+This is a simple HTML project that consists of a  Laundry Mart web Page
 
 ## File Included
 - index.html
 
 ## Output
-Hello World!
+Laundry Mart web Page
